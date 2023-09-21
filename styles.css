@@ -1,0 +1,54 @@
+body{
+    font-family: arial;
+    color: white;
+  }
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+  }
+  main{
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 20px;
+  }
+  h1, #top-p{
+    margin-left: 510px;
+  }
+  h1{
+    margin-left: 575px;
+  }
+  p{
+    font-size: 19px;
+  }
+  #tribute-info{
+    margin-left: 103px;
+  }
+  h3{
+    margin-left: 500px;
+    margin-top: 50px;
+  }
+  li{
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-size: 19px;
+  }
+  #div-his{
+    width: 500px;
+    margin-left: 410px;
+  }
+  #p-moti{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-style: italic;
+  }
+  a{
+    text-decoration: none;
+  }
+  #bio-steve{
+    margin-top: 60px;
+    margin-left: 300px;
+    font-size: 24px;
+  }
